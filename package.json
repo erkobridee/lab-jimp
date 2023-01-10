@@ -1,0 +1,29 @@
+{
+  "name": "lab-jimp",
+  "version": "0.1.0",
+  "description": "testing the jimp package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/generate-seal-image.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkobridee/lab-jimp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "image",
+    "manipulation",
+    "jimp"
+  ],
+  "author": "Erko Bridee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkobridee/lab-jimp/issues"
+  },
+  "homepage": "https://github.com/erkobridee/lab-jimp#readme",
+  "dependencies": {
+    "jimp": "^0.16.2"
+  }
+}
